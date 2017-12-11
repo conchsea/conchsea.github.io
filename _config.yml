@@ -1,9 +1,9 @@
 # Site settings
-title: 孔令贤的个人博客
-email: larrykong2016@gmail.com
-description: > #孔令贤的个人博客
+title: conchsea's blog
+email: conchseaever@gmail.com
+description: > #conchsea's blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lingxiankong.github.io/index.html" # the base hostname & protocol for your site
+url: "http://conchsea.github.io/index.html" # the base hostname & protocol for your site
 
 # Paginate（分页）
 #gems: [jekyll-paginate]
@@ -29,13 +29,10 @@ favicon: /assets/image/favicon.ico
 
 # 博客作者相关
 author:
-  name: Lingxian Kong
-  email: larrykong2016@gmail.com
-  link: http://lingxiankong.github.io/
-  weibo: http://www.weibo.com/lingxiankong
-  weibo_username: Lingxian_Kong
-  github: https://github.com/LingxianKong
-  github_username: LingxianKong
+  name: conchsea
+  email: conchseaever@gmail.com
+  link: http://conchsea.github.io/
+  github: https://github.com/conchsea
 
 
 locals:                                     #自定义常量
@@ -59,4 +56,4 @@ image: /assets/image/
 
 # disqus 设置
 disqus:
-  shortname: lingxiankong
+  shortname: conchsea
