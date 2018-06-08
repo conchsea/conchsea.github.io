@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 儿童节杂谈
+title: 儿童节
 category: 杂谈
 description: 高效做事的好处
 ---
