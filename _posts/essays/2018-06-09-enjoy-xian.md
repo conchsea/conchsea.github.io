@@ -16,6 +16,7 @@ description: 即将离开西安，多走走看看
               type="video/ogg">
           <p>Your user agent does not support the HTML5 Video element.</p>
     </video>
+
 ![永宁门](/images/2018-06-09-enjoy-xian/1.jpg)
 ![永宁门](/images/2018-06-09-enjoy-xian/2.jpg)
 ![永宁门](/images/2018-06-09-enjoy-xian/3.jpg)
