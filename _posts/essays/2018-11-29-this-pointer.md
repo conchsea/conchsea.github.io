@@ -1,10 +1,10 @@
 ﻿---
 layout: post
 title: this指针小结
-category: C++
+category: 测试C++
 description: 关于c++中this指针的总结
 ---
-   
+
 前言：在 C++ 中，每一个对象都能通过 this 指针来访问自己的地址。this 指针是所有成员函数的**隐含参数**。因此，在成员函数内部，它可以用来指向调用对象。 
 
 ## 一 定义
