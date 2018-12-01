@@ -366,6 +366,6 @@ int main()
 
 后记：感谢 Icoding_F2014博主的详尽分析，本文基本上算是对其分析过程的验证。
 
-* 参考： [Icoding_F2014对于上述过程的论证](https://baike.baidu.com/item/C++this%E6%8C%87%E9%92%88/637012)
+* 参考： [Icoding_F2014对于上述过程的论证](https://blog.csdn.net/jmh1996/article/details/78384083)
 
 修订记录：    2018-12-2 01:37       补充返回类对象的有关内容。
