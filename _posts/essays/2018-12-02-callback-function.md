@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 回调函数及其应用场景
+title: 回调函数及其应用场景分析
 category: Cpp
 description: 对于回调函数的理解总是云里雾里，这次做一个系统的总结。
 ---
@@ -180,7 +180,7 @@ int main(int argc, char *argv[])
 
 其中，RCF_XXX是注册函数名，pfn是回调函数名称（是指针），lp是回调上下文。 
 
-> 后记CSDN论坛一个[关于为什么要使用回调函数](https://bbs.csdn.net/topics/390081829)的帖子可能对深入理解回调函数有帮助，毕竟争论出真知。
+> 后记：CSDN论坛一个[关于为什么要使用回调函数](https://bbs.csdn.net/topics/390081829)的帖子可能对深入理解回调函数有帮助，毕竟争论出真知。
 
 **参考：**
 
