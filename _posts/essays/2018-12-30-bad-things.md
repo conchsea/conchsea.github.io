@@ -1,7 +1,7 @@
 ---
-layout: 杂谈
+layout: post
 title: 开始的错误
-category: 乱
+category: 杂谈
 description: 
 ---
 >一八年十二月三十日，夜，大雪。这场雪真好，真大，像极了小时候见到的。
