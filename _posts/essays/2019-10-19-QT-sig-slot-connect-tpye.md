@@ -4,8 +4,7 @@ title: QT信号槽ConnectionType的选择
 category: QT
 ---
 ---
-> qt使用connect函数连接信号槽时，最后一个参数enum Qt::ConnectionType往往被忽略而使用默认值，一般情况下这么做是没有问题的，但涉及到跨线程模块时，则需要小心指定ConnectionType，否则会达不到预期目的。  
-
+> qt使用connect函数连接信号槽时，最后一个参数enum Qt::ConnectionType往往被忽略而使用默认值，一般情况下这么做是没有问题的，但涉及到跨线程模块时，则需要小心指定ConnectionType，否则会达不到预期目的。
 
 ## 一  enum Qt::ConnectionType  
 
