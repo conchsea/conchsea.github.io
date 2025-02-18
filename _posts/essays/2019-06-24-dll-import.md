@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 动态链接库的显式调用和隐式调用
-category: 技术
+category: Cpp
 ---
 ---
 > dll的两种调用方式，隐式调用(加载时调用)和显示调用(运行时调用)。
